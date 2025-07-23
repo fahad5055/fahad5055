@@ -1,4 +1,10 @@
+<h5  align="center">TDS Soft Link</h5>
+
 - 🔭 I’m currently working on **TDS Soft Link**
+
+- 👯 I’m looking to collaborate on **MERN Stack and .NET projects solutions**
+
+- 💬 Ask me about **MERN Stack AND .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
